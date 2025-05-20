@@ -1,17 +1,14 @@
 bomare_sav_chatbot
 
-````markdown
 # SAV Bomare Chatbot
 
 This project is a web application with a React frontend, Flask backend, and Supabase database.
 
----
 
 ## Setup Guide
 
 Follow the steps below to set up and run the project locally after cloning the repository.
 
----
 
 ### Prerequisites
 
@@ -19,7 +16,6 @@ Follow the steps below to set up and run the project locally after cloning the r
 - [Python 3](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads)
 
----
 
 ### Clone the repository
 
